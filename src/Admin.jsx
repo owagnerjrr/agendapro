@@ -60,17 +60,19 @@ function Admin() {
 
   return (
     <div
-      style={{
-        minHeight: "100vh",
-        backgroundImage: "url('/fundo.png?v=1')",
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        color: "white"
-      }}
-    >
+  style={{
+    minHeight: "100vh",
+    backgroundImage: "url('/agendapro.png')",
+    backgroundSize: "contain",
+    backgroundRepeat: "no-repeat",
+    backgroundPosition: "center",
+    backgroundColor: "#0b1d4d",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    color: "white"
+  }}
+>
       <div
         style={{
           width: "90%",

@@ -111,9 +111,11 @@ Confirmado no app 👍`;
     <div style={{
       width: "100%",
       minHeight: "100vh",
-      backgroundImage: "url('/fundo.png?v=1')",
-      backgroundSize: "cover",
+      backgroundImage: "url('/agendapro.png')",
+      backgroundSize: "auto 90%",
+      backgroundRepeat: "no-repeat",
       backgroundPosition: "center",
+      backgroundColor: "#0b1d4d",
       display: "flex",
       justifyContent: "center",
       alignItems: "center",
