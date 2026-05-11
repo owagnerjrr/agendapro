@@ -5,7 +5,7 @@ import Cliente from "./Cliente";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Navigate to="/cliente" />} />
+      <Route path="/" element={<Navigate to="/agendamento" />} />
       <Route path="/agendamento" element={<Cliente />} />
       <Route path="/painel-nayan" element={<Admin />} />
     </Routes>
