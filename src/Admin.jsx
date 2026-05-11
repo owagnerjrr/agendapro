@@ -63,7 +63,7 @@ function Admin() {
   style={{
     minHeight: "100vh",
     backgroundImage: "url('/agendapro.png')",
-    backgroundSize: "contain",
+    backgroundSize: "cover",
     backgroundRepeat: "no-repeat",
     backgroundPosition: "center",
     backgroundColor: "#0b1d4d",

@@ -112,7 +112,7 @@ Confirmado no app 👍`;
       width: "100%",
       minHeight: "100vh",
       backgroundImage: "url('/agendapro.png')",
-      backgroundSize: "auto 90%",
+      backgroundSize: "cover",
       backgroundRepeat: "no-repeat",
       backgroundPosition: "center",
       backgroundColor: "#0b1d4d",
